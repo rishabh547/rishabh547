@@ -12,11 +12,6 @@
 
 
 
-### Connect with me
-
-[![https://in.linkedin.com/in/rishabh-kothari-908ab3192](https://user-images.githubusercontent.com/59617133/171150078-ab60931e-7073-4ef7-b5bd-49b93ade4caa.png)](https://in.linkedin.com/in/rishabh-kothari-908ab3192)
-
-
 ### Languages and Tools
 
 <p align="left-align">
@@ -31,6 +26,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+### Connect with me on Linkedin:
+[![https://in.linkedin.com/in/rishabh-kothari-908ab3192](https://user-images.githubusercontent.com/59617133/171150078-ab60931e-7073-4ef7-b5bd-49b93ade4caa.png)](https://in.linkedin.com/in/rishabh-kothari-908ab3192)
 <!--
 **rishabh547/rishabh547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
