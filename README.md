@@ -14,7 +14,8 @@
 
 ### Connect with me:
 
-![https://in.linkedin.com/in/rishabh-kothari-908ab3192](https://user-images.githubusercontent.com/59617133/171150078-ab60931e-7073-4ef7-b5bd-49b93ade4caa.png)
+[![https://in.linkedin.com/in/rishabh-kothari-908ab3192](https://user-images.githubusercontent.com/59617133/171150078-ab60931e-7073-4ef7-b5bd-49b93ade4caa.png)](https://in.linkedin.com/in/rishabh-kothari-908ab3192)
+
 
 
 
