@@ -26,14 +26,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+### Github Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishabh547&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
-
-### Connect with me on Linkedin:
+### Connect with me on Linkedin
 [![https://in.linkedin.com/in/rishabh-kothari-908ab3192](https://user-images.githubusercontent.com/59617133/171150078-ab60931e-7073-4ef7-b5bd-49b93ade4caa.png)](https://in.linkedin.com/in/rishabh-kothari-908ab3192)
 <!--
 **rishabh547/rishabh547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
