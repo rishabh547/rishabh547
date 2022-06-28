@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Web3 and trying to build projects on the same line.
 
-👯 Having worked on several projects, I have a good understanding of Data Analytics & ML with a keen interest in it.
+👯 Having worked on several projects, I have a good understanding of Data Analytics, visualisation and Machine Learning.
 
 ⚡ Explored Web and Application Development by working on various collaborative projects.
 
