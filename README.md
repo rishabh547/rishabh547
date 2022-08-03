@@ -1,6 +1,6 @@
 
 # Hi there, I'm Rishabh Kothari 👋 
-## Currently a Third Year CS Undergrad and a Developer
+## Currently a Final Year CS Undergrad and a Developer
 
 
 
