@@ -4,7 +4,7 @@
 
 
 
-🌱 I’m currently learning Web3 and trying to build projects on the same line.
+🌱 I’m currently working on a project under video analytics which involves feature extraction from audio and building an econometric model for the same.
 
 👯 Having worked on several projects, I have a good understanding of Data Analytics, Visualisations and Machine Learning.
 
