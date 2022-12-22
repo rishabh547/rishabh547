@@ -1,10 +1,10 @@
 
 # Hi there, I'm Rishabh Kothari 👋 
-## Currently a Final Year CS Undergrad whose has a keen interest in Data Analytics.
+## Currently a Final Year CS Undergrad who has a keen interest in Data Analytics.
 
 
 
-🌱 I’m currently working on a project under video analytics which involves feature extraction from audio and building an econometric model for the same.
+🌱 I have experience of working on various Data Science, Analytics and Web Development projects.
 
 👯 Having worked on several projects, I have a good understanding of Data Analytics, Visualisations and Machine Learning.
 
